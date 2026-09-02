@@ -1,3 +1,4 @@
+print ("Fibonacci Series")
 n = int(input("Enter number of terms: "))
 
 a = 0
